@@ -57,9 +57,9 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
 ---
 ## 🔮 Future Improvements  
 - [ ] Implement **real-time fraud detection capability**  
-- [ ] Explore **ensemble methods** for improved performance**  
-- [ ] Develop an **adaptive learning approach** for evolving fraud patterns**  
-- [ ] Create a **web-based dashboard** for monitoring fraud detection metrics**
+- [ ] Explore **ensemble methods** for improved performance  
+- [ ] Develop an **adaptive learning approach** for evolving fraud patterns* 
+- [ ] Create a **web-based dashboard** for monitoring fraud detection metrics
 
 
 ## 💻 Installation and Usage  
