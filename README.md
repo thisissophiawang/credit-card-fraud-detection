@@ -1,7 +1,6 @@
 # Credit Card Fraud Detection
 
-![Fraud Detection](https://github.com/thisissophiawang/credit-card-fraud-detection/blob/main/images/fraud-detection-banner.png)
-
+![Fraud Detection](https://github.com/thisissophiawang/credit-card-fraud-detection/blob/main/banner.png)
 ## 📌 Project Overview  
 This project implements advanced data mining techniques to detect fraudulent credit card transactions.  
 With global fraud losses exceeding **$28.65 billion annually**, we aim to tackle key challenges such as **imbalanced data, computational efficiency, and evolving fraud patterns**.  
