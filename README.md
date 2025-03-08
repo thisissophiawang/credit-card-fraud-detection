@@ -55,6 +55,12 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
 | Neural Network  | 0.89      | **0.91** | **0.90** | 0.96 |
 
 ---
+## 🔮 Future Improvements  
+- [ ] Implement **real-time fraud detection capability**  
+- [ ] Explore **ensemble methods** for improved performance**  
+- [ ] Develop an **adaptive learning approach** for evolving fraud patterns**  
+- [ ] Create a **web-based dashboard** for monitoring fraud detection metrics**
+
 
 ## 💻 Installation and Usage  
 
@@ -67,11 +73,7 @@ tensorflow==2.15.0
 matplotlib==3.8.3
 seaborn==0.13.2
 imbalanced-learn==0.12.0
----
 
-## 🔮 Future Improvements  
-- [ ] Implement **real-time fraud detection capability**  
-- [ ] Explore **ensemble methods** for improved performance**  
-- [ ] Develop an **adaptive learning approach** for evolving fraud patterns**  
-- [ ] Create a **web-based dashboard** for monitoring fraud detection metrics**  
+
+
 
