@@ -23,6 +23,26 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
 ✔ **Time elapsed features** and **transaction amounts**  
 ✔ **Anonymized data** to protect user privacy
 
+
+## 📊 Dataset link  
+
+### Original Dataset
+- **creditcard.csv** - The original credit card transaction dataset from Kaggle
+  - [Download Link](https://drive.google.com/file/d/197nHQ0t_L390PbnDcROgan7QomMe76oi/view?usp=drive_link)
+
+### Preprocessed Datasets
+
+#### SMOTE Dataset
+- **smote_processed_data.csv** - Dataset after applying SMOTE for class balancing
+  - [Download Link](https://drive.google.com/file/d/1jVFfTr-eclkVK7ap2GJ-RyzeJPfFotcd/view?usp=drive_link)
+
+#### Train/Test Split Files
+- **train_preprocessed.csv** - Preprocessed training dataset
+  - [Download Link](https://drive.google.com/file/d/1Yxs3pa9fQh6poNaCVu8TR9fmGLEHB9w8/view?usp=drive_link)
+- **test_preprocessed.csv** - Preprocessed testing dataset
+  - [Download Link](https://drive.google.com/file/d/11txQyG0D7MhFZkRSGMu6oK6pTnfcCXlk/view?usp=drive_link)
+
+
 ## ⚙️ Methodology
 
 ### 1️⃣ Data Preprocessing
