@@ -1,0 +1,5 @@
+data/SMOTE file/smote_processed_data.csv
+data/creditcard.csv
+data/preprocessed file/train_preprocessed.csv
+tableau/processed_credit_card_data.csv
+.DS_Store
