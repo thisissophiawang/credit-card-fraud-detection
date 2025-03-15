@@ -149,7 +149,7 @@ credit-card-fraud-detection/
 ├── code/                           # Source code files
 │   ├── models/                     # Model implementation
 │   │   ├── part4-Random forest.ipynb   # Random Forest model
-│   │   ├── part4b_Random_forest(SHAP)  # Random Forest with SHAP analysis model
+│   │   ├── part4b-Random forest(SHAP).ipynb  # Random Forest with SHAP analysis model
 │   │   └── part5-Neural network.ipynb  # Neural Network model
 │   └── preprocessing/              # Data preprocessing pipeline
 │       ├── part1_credit_card_fraud_preprocessing.ipynb  # Feature scaling & initial preprocessing
