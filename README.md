@@ -65,9 +65,7 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
 #### 🔹 Random Forest with SHAP analysis
 ✔ **Configuration**: For computational efficiency, we optimized our original Random Forest model (100 trees, max depth of 10) to a lighter version (50 trees, max depth of 8, increased min_samples_split, parallelized processing)
 ✔ **ROC-AUC Score**: 0.979
-
 ✔ **Threshold Optimization**: Improved F1 score from 0.5784 to 0.8021 (38.67% improvement)
-
 ✔ **SHAP Analysis Enhancements**: Unlike traditional feature importance measures in the base Random Forest, SHAP analysis provides detailed per-prediction feature contribution values, revealing how specific features like V14, V10, and V4 individually influence model decisions, creating a more transparent and interpretable fraud detection system
 
 
