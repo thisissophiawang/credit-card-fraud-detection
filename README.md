@@ -112,6 +112,33 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
 
 ## 💻 Installation and Usage
 
+## 📋 Project Structure
+
+```
+credit-card-fraud-detection/
+├── code/                           # Source code files
+│   ├── models/                     # Model implementation
+│   │   ├── part4-Random forest.ipynb   # Random Forest model
+│   │   ├── part4b-Random forest(SHAP).ipynb  # Random Forest with SHAP analysis model
+│   │   └── part5-Neural network.ipynb  # Neural Network model
+│   └── preprocessing/              # Data preprocessing pipeline
+│       ├── part1_credit_card_fraud_preprocessing.ipynb  # Feature scaling & initial preprocessing
+│       ├── part2_credit_card_fraud_smote.ipynb          # SMOTE implementation
+│       └── part3-outlier_detection_and_models.ipynb     # Outlier detection 
+├── image/                          # Visualization images
+│   ├── SMOTE/                      # SMOTE-related visualizations
+│   ├── neural network/             # Neural network results & visualizations
+│   ├── outliter detection/         # Outlier detection visualizations
+│   ├── preprocessed image/         # Data preprocessing visualizations
+│   └── random foreast/             # Random Forest results & visualizations
+├── tableau/                        # Tableau files and visualizations
+│   └── tableau dashboard.png       # Dashboard visualization
+├── README.md                       # Project documentation
+├── banner.png                      # Project banner image
+└── workflow.pdf                    # Workflow diagram
+```
+
+
 ### 📌 Requirements
 
 ```plaintext
@@ -142,31 +169,7 @@ python src/train_models.py
 ```
 
 
-## 📋 Project Structure
 
-```
-credit-card-fraud-detection/
-├── code/                           # Source code files
-│   ├── models/                     # Model implementation
-│   │   ├── part4-Random forest.ipynb   # Random Forest model
-│   │   ├── part4b-Random forest(SHAP).ipynb  # Random Forest with SHAP analysis model
-│   │   └── part5-Neural network.ipynb  # Neural Network model
-│   └── preprocessing/              # Data preprocessing pipeline
-│       ├── part1_credit_card_fraud_preprocessing.ipynb  # Feature scaling & initial preprocessing
-│       ├── part2_credit_card_fraud_smote.ipynb          # SMOTE implementation
-│       └── part3-outlier_detection_and_models.ipynb     # Outlier detection 
-├── image/                          # Visualization images
-│   ├── SMOTE/                      # SMOTE-related visualizations
-│   ├── neural network/             # Neural network results & visualizations
-│   ├── outliter detection/         # Outlier detection visualizations
-│   ├── preprocessed image/         # Data preprocessing visualizations
-│   └── random foreast/             # Random Forest results & visualizations
-├── tableau/                        # Tableau files and visualizations
-│   └── tableau dashboard.png       # Dashboard visualization
-├── README.md                       # Project documentation
-├── banner.png                      # Project banner image
-└── workflow.pdf                    # Workflow diagram
-```
 
 
 ## 🔗 References
