@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-![Fraud Detection](https://github.com/thisissophiawang/credit-card-fraud-detection/blob/main/banner.png)
+![Fraud Detection](https://github.com/thisissophiawang/credit-card-fraud-detection/blob/main/banner2.png)
 
 ## 📌 Project Overview
 
