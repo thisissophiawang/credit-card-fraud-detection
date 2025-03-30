@@ -44,7 +44,7 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
   - [Download Link](https://drive.google.com/file/d/11txQyG0D7MhFZkRSGMu6oK6pTnfcCXlk/view?usp=drive_link)
 
 ## Final Presentation link  
-Credit Card Fraud Detection Final Project presentation (https://github.com/thisissophiawang/credit-card-fraud-detection/blob/bdc063fe6b20feaf40d0b2151bcfcba080dae41d/Credit%20Card%20Fraud%20Detection%20Final%20Project%20presentation%20.pdf)
+Credit Card Fraud Detection Final Project presentation [Download Link](https://github.com/thisissophiawang/credit-card-fraud-detection/blob/bdc063fe6b20feaf40d0b2151bcfcba080dae41d/Credit%20Card%20Fraud%20Detection%20Final%20Project%20presentation%20.pdf)
 
 ## ⚙️ Methodology
 
