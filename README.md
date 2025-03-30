@@ -43,6 +43,8 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
 - **test_preprocessed.csv** - Preprocessed testing dataset
   - [Download Link](https://drive.google.com/file/d/11txQyG0D7MhFZkRSGMu6oK6pTnfcCXlk/view?usp=drive_link)
 
+## Final Presentation link  
+Credit Card Fraud Detection Final Project presentation.pdf
 
 ## ⚙️ Methodology
 
