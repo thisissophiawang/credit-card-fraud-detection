@@ -2,18 +2,42 @@
 
 <img src="https://github.com/thisissophiawang/credit-card-fraud-detection/blob/main/banner2.png" width="50%" />
 
+## 🗂️ Table of Contents
+- [📌 Project Overview](#-project-overview)
+- [🔍 Key Challenges Addressed](#-key-challenges-addressed)
+- [📊 Dataset](#-dataset)
+- [📊 Dataset Link](#-dataset-link)
+- [🎥 Final Presentation Link](#final-presentation-link)
+- [⚙️ Methodology](#️-methodology)
+  - [1️⃣ Data Preprocessing](#1️⃣-data-preprocessing)
+  - [2️⃣ Models Implemented](#2️⃣-models-implemented)
+- [📈 Evaluation Metrics](#-evaluation-metrics)
+- [🚀 Results](#-results)
+- [🔬 Key Findings](#-key-findings)
+- [🔮 Future Improvements](#-future-improvements)
+- [💻 Installation and Usage](#-installation-and-usage)
+- [📋 Project Structure](#-project-structure)
+- [📌 Requirements](#-requirements)
+- [🚀 Setup and Execution](#-setup-and-execution)
+- [🔗 References](#-references)
+
+---
+
 ## 📌 Project Overview
 
 This project implements advanced data mining techniques to detect fraudulent credit card transactions.
 
 With global fraud losses exceeding **$28.65 billion annually**, we aim to tackle key challenges such as **imbalanced data, computational efficiency, and evolving fraud patterns**.
 
+---
 
 ### 🔍 Key Challenges Addressed
 
 - **Severe Class Imbalance**: Only **0.17%** (492 out of 284,807) transactions are fraudulent
 - **Computational Complexity**: **28 PCA-transformed features** requiring efficient processing
 - **Evolving Fraud Patterns**: Adapting to **changing fraud tactics** over time
+
+---
 
 ## 📊 Dataset
 
@@ -24,6 +48,7 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
 ✔ **Time elapsed features** and **transaction amounts**  
 ✔ **Anonymized data** to protect user privacy
 
+---
 
 ## 📊 Dataset link  
 
@@ -42,9 +67,13 @@ We utilized the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/m
   - [Download Link](https://drive.google.com/file/d/1Yxs3pa9fQh6poNaCVu8TR9fmGLEHB9w8/view?usp=drive_link)
 - **test_preprocessed.csv** - Preprocessed testing dataset
   - [Download Link](https://drive.google.com/file/d/11txQyG0D7MhFZkRSGMu6oK6pTnfcCXlk/view?usp=drive_link)
+ 
+---
 
 ## Final Presentation link  
 Credit Card Fraud Detection Final Project presentation [Download Link](https://github.com/thisissophiawang/credit-card-fraud-detection/blob/bdc063fe6b20feaf40d0b2151bcfcba080dae41d/Credit%20Card%20Fraud%20Detection%20Final%20Project%20presentation%20.pdf)
+
+---
 
 ## ⚙️ Methodology
 
@@ -79,6 +108,8 @@ Credit Card Fraud Detection Final Project presentation [Download Link](https://g
 ✔ **Optimization**: Adam with learning rate of 0.001  
 ✔ **Dropout layers** (0.3) to prevent overfitting
 
+---
+
 ## 📈 Evaluation Metrics
 
 - **Precision, Recall, and F1-Score**
@@ -86,12 +117,16 @@ Credit Card Fraud Detection Final Project presentation [Download Link](https://g
 - **Confusion Matrix Analysis**
 - **Probability Distribution Analysis**
 
+---
+
 ### 🚀 Results
 
 | Model | Precision | Recall | F1-Score | AUC |
 |-------|-----------|--------|----------|-----|
 | Random Forest | **0.96** | 0.83 | 0.89 | 0.97 |
 | Neural Network | 0.89 | **0.91** | **0.90** | 0.96 |
+
+---
 
 ### 📊 Performance Insights
 
@@ -105,6 +140,8 @@ Credit Card Fraud Detection Final Project presentation [Download Link](https://g
 2. **SMOTE's Role**: Transformed dataset from 0.17% fraudulent transactions to a balanced distribution
 3. **Comparative Insights**: Random Forest provided better interpretability while Neural Network reduced false positives
 
+---
+
 ## 🔮 Future Improvements
 
 - [ ] Implement **real-time fraud detection capability**
@@ -112,6 +149,8 @@ Credit Card Fraud Detection Final Project presentation [Download Link](https://g
 - [ ] Develop an **adaptive learning approach** for evolving fraud patterns
 - [ ] Create a **web-based dashboard** for monitoring fraud detection metrics
 - [ ] Implement **XAI techniques** (SHAP, LIME) for better model interpretability
+
+---
 
 ## 💻 Installation and Usage
 
@@ -141,6 +180,7 @@ credit-card-fraud-detection/
 └── workflow.pdf                    # Workflow diagram
 ```
 
+---
 
 ### 📌 Requirements
 
@@ -172,8 +212,7 @@ python src/train_models.py
 ```
 
 
-
-
+---
 
 ## 🔗 References
 
